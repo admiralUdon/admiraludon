@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmad Miqdaad</h1>
 <h3 align="center">Empowering technology with expertise and innovation.</h3>
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/images/undraw_programmer_re_owql.svg" width="480" height="360" frameBorder="0" class="giphy-embed" align="right" allowFullScreen>
+<img src="https://raw.githubusercontent.com/admiraludon6/github-profile/master/images/undraw_programmer_re_owql.svg" width="480" height="360" frameBorder="0" class="giphy-embed" align="right" allowFullScreen>
 
 - 🌱 I’m currently learning 
 [![Next][Next.js]][Next-url] & [![React][React.js]][React-url]
@@ -14,7 +14,7 @@ Website
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="linkedin.com/in/miqdaadz" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aizuddin zaini" height="30" width="40" /></a>
+<a href="linkedin.com/in/miqdaadz" target="_blank"><img align="center" src="https://raw.githubusercontent.com/admiraludon6/github-profile/master/icons/linkedin-svgrepo-com.svg" alt="ahmadmiqdaad zaini" height="40" width="40" /></a>
 </p>
 
 <br>
@@ -70,7 +70,7 @@ Website
 
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/admiraludon6/github-profile/master/icons/bash-svgrepo-com.svg" 
-       alt="bash" height="40"/> 
+       alt="bash" height="30"/> 
   </a> 
 
   <a href="https://www.perl.org/" target="_blank" rel="noreferrer"> 
@@ -125,17 +125,17 @@ Website
 
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/admiraludon6/github-profile/master/icons/nodejs-svgrepo-com.svg" 
-       alt="nodejs" height="40"/> 
+       alt="nodejs" height="20"/> 
   </a> 
 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/admiraludon6/github-profile/master/icons/mysql-logo-svgrepo-com.svg" 
-       alt="mysql" height="40"/> 
+       alt="mysql" width="60"/> 
   </a> 
 
   <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/admiraludon6/github-profile/master/icons/mariadb-svgrepo-com.svg" 
-       alt="mariadb" height="40"/> 
+       alt="mariadb" width="60"/> 
   </a> 
 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
@@ -160,7 +160,7 @@ Website
 
   <a href="https://www.apachefriends.org/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/admiraludon6/github-profile/master/icons/xampp-svgrepo-com.svg" 
-       alt="xampp" height="40"/> 
+       alt="xampp" height="35" height="35"/> 
   </a> 
 
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
@@ -175,12 +175,12 @@ Website
   
   <a href="https://www.centos.org/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/admiraludon6/github-profile/master/icons/centos-svgrepo-com.svg" 
-       alt="centos" width="40" height="40"/> 
+       alt="centos" height="35"/> 
   </a> 
 
   <a href="https://www.microsoft.com/en-my/windows/?r=1" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/admiraludon6/github-profile/master/icons/windowsphone-color-svgrepo-com.svg" 
-       alt="windows" width="40" height="40"/> 
+       alt="windows" width="30" height="30"/> 
   </a> 
   
   <a href="https://www.apple.com/my/macos/" target="_blank" rel="noreferrer"> 
