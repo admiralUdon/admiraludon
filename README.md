@@ -2,8 +2,8 @@
 <h3 align="center">Empowering technology with expertise and innovation.</h3>
 <img src="https://raw.githubusercontent.com/admiraludon6/github-profile/master/images/undraw_programmer_re_owql.svg" width="480" height="360" frameBorder="0" class="giphy-embed" align="right" allowFullScreen>
 
-- 🌱 I’m currently learning 
-[![Next][Next.js]][Next-url] & [![React][React.js]][React-url]
+- 🌱 I’m currently learning <br>
+[![Next][Next.js]][Next-url] [![React][React.js]][React-url]
 
 
 - 📫 How to reach me <br> **ahmadmiqdaadz@gmail.com** 
