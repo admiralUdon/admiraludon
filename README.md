@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmad Miqdaad</h1>
 <h3 align="center">Empowering technology with expertise and innovation.</h3>
-<img src="https://raw.githubusercontent.com/admiraludon6/admiraludon6/master/images/undraw_programmer_re_owql.svg" width="480" height="360" frameBorder="0" class="giphy-embed" align="right" allowFullScreen>
+<img src="https://raw.githubusercontent.com/admiraludon6/admiraludon6/master/images/undraw_programmer_re_owql.svg" width="250" height="250" frameBorder="0" class="giphy-embed" align="right" allowFullScreen>
 
 - 🌱 I’m currently learning <br>
 [![Next][Next.js]][Next-url] [![React][React.js]][React-url]
@@ -14,7 +14,7 @@ Website
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="linkedin.com/in/miqdaadz" target="_blank"><img align="center" src="https://raw.githubusercontent.com/admiraludon6/admiraludon6/master/icons/linkedin-svgrepo-com.svg" alt="ahmadmiqdaad zaini" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/miqdaadz" target="_blank"><img align="center" src="https://raw.githubusercontent.com/admiraludon6/admiraludon6/master/icons/linkedin-svgrepo-com.svg" alt="ahmadmiqdaad zaini" height="40" width="40" /></a>
 </p>
 
 <br>
