@@ -26,85 +26,63 @@ Website
        alt="html5" width="40" height="40"/> 
   </a>  -->
 
-  [![HTML][HTML]][HTML-url]
-
   <!-- <a href="https://en.wikipedia.org/wiki/CSS" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/admiraludon6/admiraludon6/master/icons/css-3-svgrepo-com.svg" 
        alt="css3" width="40" height="40"/> 
   </a>  -->
-
-  [![CSS][CSS]][CSS-url]
 
   <!-- <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/admiraludon6/admiraludon6/master/icons/js-svgrepo-com.svg" 
        alt="javascript" width="40" height="40"/> 
   </a>  -->
 
-  [![JavaScript][JavaScript]][JavaScript-url]
-
   <!-- <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/admiraludon6/admiraludon6/master/icons/typescript-icon-svgrepo-com.svg" 
        alt="typescript" width="40" height="40"/> 
   </a>  -->
   
-  [![TypeScript][TypeScript]][TypeScript-url]
-
   <!-- <a href="https://angular.io/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/admiraludon6/admiraludon6/master/icons/angular-svgrepo-com.svg" 
        alt="angular" width="40" height="40"/> 
   </a>  -->
-
-  [![Angular][Angular]][Angular-url]
   
   <!-- <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/admiraludon6/admiraludon6/master/icons/react-svgrepo-com.svg" 
        alt="reactjs" width="40" height="40"/> 
   </a>  -->
-
-  [![React][React.js]][React-url]
-
   
   <!-- <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/admiraludon6/admiraludon6/master/icons/nextjs-fill-svgrepo-com.svg" 
        alt="nextjs" width="40" height="40"/> 
   </a>  -->
   
-  [![Next][Next.js]][Next-url]
-  
   <!-- <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/admiraludon6/admiraludon6/master/icons/tailwind-svgrepo-com.svg" 
        alt="tailwindcss" width="40" height="40"/> 
   </a>  -->
-  
-  [![TailwindCSS][TailwindCSS]][TailwindCSS-url]
 
   <!-- <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/admiraludon6/admiraludon6/master/icons/express-svgrepo-com.svg" 
        alt="expressjs" height="40"/> 
   </a>  -->
 
-  [![Express.js][Express.js]][Express-url]
-
   <!-- <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/admiraludon6/admiraludon6/master/icons/bash-svgrepo-com.svg" 
        alt="bash" height="30"/> 
   </a>  -->
-
-  [![ShellScript][ShellScript]][ShellScript-url]
 
   <!-- <a href="https://www.perl.org/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/admiraludon6/admiraludon6/master/icons/perl2-svgrepo-com.svg" 
        alt="perl" width="40" height="40"/> 
   </a>  -->
 
-  [![Perl][Perl]][Perl-url]
-
   <!-- <a href="https://www.php.net/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/admiraludon6/admiraludon6/master/icons/php-svgrepo-com.svg" 
        alt="perl" width="40" height="40"/> 
   </a>  -->
 
-  [![PHP][PHP]][PHP-url]
+  [![HTML][HTML]][HTML-url] [![CSS][CSS]][CSS-url] [![JavaScript][JavaScript]][JavaScript-url] [![TypeScript][TypeScript]][TypeScript-url]
+ [![Angular][Angular]][Angular-url] [![React][React.js]][React-url] [![Next][Next.js]][Next-url] [![TailwindCSS][TailwindCSS]][TailwindCSS-url] [![Express.js][Express.js]][Express-url] [![ShellScript][ShellScript]][ShellScript-url] [![Perl][Perl]][Perl-url] [![PHP][PHP]][PHP-url]
 
   </p>
 
@@ -116,14 +94,10 @@ Website
        alt="kubernetes" width="40" height="40"/> 
   </a>  -->
 
-  [![Kubernetes][Kubernetes]][Kubernetes-url]
-
   <!-- <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/admiraludon6/admiraludon6/master/icons/docker-svgrepo-com.svg" 
        alt="docker" width="40" height="40"/> 
   </a>  -->
-
-  [![Docker][Docker]][Docker-url]
 
   <!-- 
   <a href="https://helm.sh/" target="_blank" rel="noreferrer"> 
@@ -131,98 +105,72 @@ Website
        alt="helmchart" width="40" height="40"/> 
   </a>  -->
 
-  [![Helm][Helm]][Helm-url]
-
   <!-- <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/admiraludon6/admiraludon6/master/icons/jenkins-svgrepo-com.svg" 
        alt="helmchart" width="40" height="40"/> 
   </a>  -->
 
-  [![Jenkins][Jenkins]][Jenkins-url]
-
   <!-- <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/admiraludon6/admiraludon6/master/icons/apache-svgrepo-com.svg" 
        alt="apache" width="40" height="40"/> 
   </a>  -->
-
-  [![Apache][Apache]][Apache-url]
   
   <!-- <a href="https://www.nginx.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/admiraludon6/admiraludon6/master/icons/nginx-svgrepo-com.svg" 
        alt="nginx" width="40" height="40"/> 
   </a>  -->
-
-  [![NGINX][NGINX]][NGINX-url]
   
   <!-- <a href="https://www.haproxy.org/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/admiraludon6/admiraludon6/master/icons/haproxy-svgrepo-com.svg" 
        alt="haproxy" height="40"/> 
   </a>  -->
 
-  [![HaProxy][HaProxy]][HaProxy-url]
-
   <!-- <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/admiraludon6/admiraludon6/master/icons/nodejs-svgrepo-com.svg" 
        alt="nodejs" height="20"/> 
   </a>  -->
-
-  [![Node.js][Node.js]][Node.js-url]
 
   <!-- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/admiraludon6/admiraludon6/master/icons/mysql-logo-svgrepo-com.svg" 
        alt="mysql" width="60"/> 
   </a>  -->
 
-  [![MySQL][MySQL]][MySQL-url]
-
   <!-- <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/admiraludon6/admiraludon6/master/icons/mariadb-svgrepo-com.svg" 
        alt="mariadb" width="60"/> 
   </a>  -->
-
-  [![MariaDB][MariaDB]][MariaDB-url]
 
   <!-- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/admiraludon6/admiraludon6/master/icons/git-svgrepo-com.svg" 
        alt="git" width="40" height="40"/> 
   </a>  -->
 
-  [![Git][Git]][Git-url]
-
   <!-- <a href="https://gitea.io/en-us/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/admiraludon6/admiraludon6/master/icons/gitea-svgrepo-com.svg" 
        alt="gitea" width="40" height="40"/> 
   </a>  -->
-
-  [![Gitea][Gitea]][Gitea-url]
 
   <!-- <a href="https://github.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/admiraludon6/admiraludon6/master/icons/github-svgrepo-com.svg" 
        alt="github" width="40" height="40"/> 
   </a>  -->
 
-  [![Github][Github]][Github-url]
-
   <!-- <a href="https://cpanel.net/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/admiraludon6/admiraludon6/master/icons/cpanel-svgrepo-com.svg" 
        alt="cpanel" width="40" height="40"/> 
   </a>  -->
-
-  [![cpanel][cpanel]][cpanel-url]
 
   <!-- <a href="https://www.apachefriends.org/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/admiraludon6/admiraludon6/master/icons/xampp-svgrepo-com.svg" 
        alt="xampp" height="35" height="35"/> 
   </a>  -->
 
-  [![xampp][xampp]][xampp-url]
-
   <!-- <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/admiraludon6/admiraludon6/master/icons/vscode-svgrepo-com.svg" 
        alt="xampp" height="40"/>  -->
   </a> 
 
-  [![vscode][vscode]][vscode-url]
+  [![Kubernetes][Kubernetes]][Kubernetes-url] [![Docker][Docker]][Docker-url] [![Helm][Helm]][Helm-url] [![Jenkins][Jenkins]][Jenkins-url] [![Apache][Apache]][Apache-url] [![NGINX][NGINX]][NGINX-url] [![HaProxy][HaProxy]][HaProxy-url] [![Node.js][Node.js]][Node.js-url] [![MySQL][MySQL]][MySQL-url] [![MariaDB][MariaDB]][MariaDB-url] [![Git][Git]][Git-url] [![Gitea][Gitea]][Gitea-url] [![Github][Github]][Github-url] [![cpanel][cpanel]][cpanel-url] [![xampp][xampp]][xampp-url] [![vscode][vscode]][vscode-url]
 
   </p>
 
@@ -234,42 +182,32 @@ Website
        alt="centos" height="35"/> 
   </a>  -->
 
-  [![CentOS][CentOS]][CentOS-url]
-
   <!-- <a href="https://www.microsoft.com/en-my/windows/?r=1" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/admiraludon6/admiraludon6/master/icons/windowsphone-color-svgrepo-com.svg" 
        alt="windows" width="30" height="30"/> 
   </a>  -->
-
-  [![Windows][Windows]][Windows-url]
   
   <!-- <a href="https://www.apple.com/my/macos/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/admiraludon6/admiraludon6/master/icons/macos-svgrepo-com.svg" 
        alt="macos" width="40" height="40"/> 
   </a>  -->
-
-  [![MacOS][MacOS]][MacOS-url]
   
   <!-- <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/admiraludon6/admiraludon6/master/icons/linux-svgrepo-com.svg" 
        alt="linux" width="40" height="40"/> 
   </a>  -->
-
-  [![Linux][Linux]][Linux-url]
   
   <!-- <a href="https://azure.microsoft.com/en-us" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/admiraludon6/admiraludon6/master/icons/azure-svgrepo-com.svg" 
        alt="azure" width="40" height="40"/> 
   </a>  -->
-
-  [![Azure][Azure]][Azure-url]
   
   <!-- <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/admiraludon6/admiraludon6/master/icons/aws-svgrepo-com.svg" 
        alt="aws" width="40" height="40"/> 
   </a>  -->
 
-  [![AWS][AWS]][AWS-url]
+  [![CentOS][CentOS]][CentOS-url] [![Windows][Windows]][Windows-url] [![MacOS][MacOS]][MacOS-url] [![Linux][Linux]][Linux-url] [![Azure][Azure]][Azure-url] [![AWS][AWS]][AWS-url]
   </p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
