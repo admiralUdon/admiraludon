@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmad Miqdaad</h1>
 <h3 align="center">Empowering technology with expertise and innovation.</h3>
-<img src="https://raw.githubusercontent.com/admiraludon6/admiraludon6/master/images/undraw_programmer_re_owql.svg" width="250" height="250" frameBorder="0" class="giphy-embed" align="right" allowFullScreen>
+<img src="https://raw.githubusercontent.com/admiraludon6/admiraludon6/master/images/undraw_programming_re_kg9v.svg" width="250" height="250" frameBorder="0" class="giphy-embed" align="right" allowFullScreen>
 
 - 🌱 I’m currently learning <br>
 [![Next][Next.js]][Next-url] [![React][React.js]][React-url]
