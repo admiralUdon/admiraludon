@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/admiraludon6/admiraludon6/master/images/undraw_programming_re_kg9v.svg" width="250" height="250" frameBorder="0" class="giphy-embed" align="right" allowFullScreen>
 
 - 🌱 I’m currently learning <br>
-[![Next][Next.js]][Next-url] [![React][React.js]][React-url]
+[![NestJs][NestJs]][NestJs-url] 
 
 
 - 📫 How to reach me <br> **ahmadmiqdaadz@gmail.com** 
@@ -214,6 +214,8 @@ Website
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
+[NestJs]: https://img.shields.io/badge/nestjs-e0224e?style=for-the-badge&logo=nestjs&logoColor=white
+[NestJs-url]: https://nestjs.com
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
 [HTML]: https://img.shields.io/badge/html5-f16529?style=for-the-badge&logo=html5&logoColor=white
