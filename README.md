@@ -82,7 +82,7 @@ Website
   </a>  -->
 
   [![HTML][HTML]][HTML-url] [![CSS][CSS]][CSS-url] [![JavaScript][JavaScript]][JavaScript-url] [![TypeScript][TypeScript]][TypeScript-url]
- [![Angular][Angular]][Angular-url] [![React][React.js]][React-url] [![Next][Next.js]][Next-url] [![TailwindCSS][TailwindCSS]][TailwindCSS-url] [![Express.js][Express.js]][Express-url] [![ShellScript][ShellScript]][ShellScript-url] [![Perl][Perl]][Perl-url] [![PHP][PHP]][PHP-url]
+ [![Angular][Angular]][Angular-url][![TailwindCSS][TailwindCSS]][TailwindCSS-url] [![Express.js][Express.js]][Express-url] [![ShellScript][ShellScript]][ShellScript-url] [![Perl][Perl]][Perl-url] [![PHP][PHP]][PHP-url]
 
   </p>
 
