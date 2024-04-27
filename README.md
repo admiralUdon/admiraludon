@@ -86,7 +86,7 @@ Website
 
   </p>
 
-  <h3 align="left">Experienced Software :</h3>
+  <h3 align="left">Experienced Tools & Software :</h3>
   <p align="left"> 
 
   <!-- <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> 
